@@ -2,7 +2,7 @@
 
 2021년 2학기 컴퓨터비전의 텀프로젝트 3단계 Plant_Disease 진행 저장소 입니다.
 
-**설명 동영상 링크** (https://youtu.be/TyU3XBPHjT0)
+**설명 동영상 링크** (https://youtu.be/s8eT9RxuEDQ)
 
 
 ## Env
