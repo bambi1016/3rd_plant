@@ -24,5 +24,5 @@ AI Hub와 농진청에서 제공하는 화상병, 건강한 잎, leafspot 이미
 
 ## Leader board
 리더보드 제출 기록 사진 입니다.
-![Leader_board](Leader_board.png)
+![Leader_board](Leader_board3.png)
 
